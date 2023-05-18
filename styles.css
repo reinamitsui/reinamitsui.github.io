@@ -1,0 +1,44 @@
+body{
+  background-color:#2ab0b9;
+  width: 80%; 
+  margin: auto;
+
+}
+nav{
+  margin:7%;
+}
+.info{
+  margin: 2%;
+  border: 5px solid rgba(253, 253, 253, 0);
+  padding: 2px;
+  width: 40%;
+  display: inline-block;
+}
+.header-info{
+  background-color:pink;
+  width: 100%;
+}
+.header-info h1{
+  color:#ffffff;
+  text-align: center;
+}
+h1, h2, h3{
+  color:darkorchid
+}
+#myimg{
+  text-align: right;
+  width: 100%;
+  border: 5px solid rgb(253, 251, 251); 
+  border-radius: 25px; 
+  box-shadow:0 4px 8px rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#myimg2{
+  width: 100%;
+  border: 5px solid rgb(253, 251, 251); 
+  border-radius: 25px; 
+  box-shadow:0 4px 8px rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.copyright-icon{
+  font-size: 20px;
+  text-align: center;
+}
